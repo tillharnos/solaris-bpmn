@@ -1,4 +1,3 @@
 # solaris-bpmn
 
-# test
 ## test
